@@ -1,1 +1,3 @@
-# Udacity-data-scientist-nano-degree-
+# This repository for projects of Udacity's Data Scientist Nano Degree 
+
+
