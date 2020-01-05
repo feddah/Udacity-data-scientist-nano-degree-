@@ -32,9 +32,9 @@ view6914b2f4
 ##### App
 1- run.py: Flask app and the user interface used to predict results and display them.
 2- templates: folder containing the html templates
-![Test Image 4](https://github.com/feddah/Udacity-data-scientist-nano-degree-/tree/master/Projects/Project%20%235%20Disaster%20Response%20Pipeline/img2.png)
+![Test Image 4](img2.png)
 
 ![Test Image 4](img1.png)
+![Test Image 4](img3.png)
+![Test Image 4](img4.png)
 
-
-![alt text](https://github.com/feddah/Udacity-data-scientist-nano-degree-/tree/master/Projects/Project%20%235%20Disaster%20Response%20Pipeline/img1.png)
