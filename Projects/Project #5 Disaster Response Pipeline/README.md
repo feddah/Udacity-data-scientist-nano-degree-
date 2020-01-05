@@ -32,9 +32,13 @@ view6914b2f4
 ##### App
 1- run.py: Flask app and the user interface used to predict results and display them.
 2- templates: folder containing the html templates
+
+## Screenshots 
 ![Test Image 4](img2.png)
 
 ![Test Image 4](img1.png)
+
 ![Test Image 4](img3.png)
+
 ![Test Image 4](img4.png)
 
