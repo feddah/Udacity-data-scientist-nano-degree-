@@ -34,7 +34,7 @@ view6914b2f4
 2- templates: folder containing the html templates
 ![Test Image 4](https://github.com/feddah/Udacity-data-scientist-nano-degree-/tree/master/Projects/Project%20%235%20Disaster%20Response%20Pipeline/img2.png)
 
-![Test Image 4](https://github.com/feddah/Udacity-data-scientist-nano-degree-/tree/master/Projects/Project%20%235%20Disaster%20Response%20Pipeline/img1.png)
+![Test Image 4](img1.png)
 
 
 ![alt text](https://github.com/feddah/Udacity-data-scientist-nano-degree-/tree/master/Projects/Project%20%235%20Disaster%20Response%20Pipeline/img1.png)
