@@ -2,6 +2,7 @@
 Convolutional Neural Networks
 Project: Write an Algorithm for a Dog Identification App
 Classify images of dogs according to their breed.
+Article : https://medium.com/@fdalthaqeel/convolutional-neural-networks-project-dog-identification-app-4cf42312bb68
 
 Feddah Alotaibi 
 
