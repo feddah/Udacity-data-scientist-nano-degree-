@@ -12,9 +12,10 @@ The project aims to classify images of dogs according to their breed using deep 
 ## To run this code on your local computer, you need to download the following:
 
 - Dog dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
-- Human dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+- Human dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/lfw.
+  these two files can be found in udacity nano degree data scientist final project 
+- Human dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/lfw.
 - VGG-16 bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
-- ResNet50 bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
 - Inception bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
 
 ## This project requires python libraries installed:
